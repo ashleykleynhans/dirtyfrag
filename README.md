@@ -1,6 +1,8 @@
 # Dirty Frag: Universal Linux LPE
 
-![tux](assets/tux.png)
+<p align="center">
+  <img src="assets/tux.png" width="400" alt="tux">
+</p>
 
 # Abstract
 

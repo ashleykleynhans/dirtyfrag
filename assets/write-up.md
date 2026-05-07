@@ -1,8 +1,11 @@
-![tux](tux.png)
+<p align="center">
+  <img src="tux.png" width="400" alt="tux">
+</p>
 
 # Intro
 
-![tux](demo.gif)
+![demo](demo.gif)
+
 
 For the exploit code and mitigation, [see here](../README.md).
 
