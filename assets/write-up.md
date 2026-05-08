@@ -249,6 +249,8 @@ My v1 patch took the approach of calling `skb_cow_data()` directly in the input 
 - 2026-05-07: Submitted detailed information about the vulnerability and the exploit to the linux-distros mailing list. The embargo was set to 5 days, with an agreement that if a third party publishes the exploit on the internet during the embargo period, the Dirty Frag exploit would be published publicly.
 - 2026-05-07: Detailed information and the exploit for this vulnerability were published publicly by an unrelated third party, breaking the embargo.
 - 2026-05-07: After obtaining agreement from distribution maintainers to fully disclose Dirty Frag, the entire Dirty Frag document was published.
+- 2026-05-08: The [f4c50a4034e6](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f4c50a4034e62ab75f1d5cdd191dd5f9c77fdff4) patch was merged into mainline.
+- 2026-05-08: This vulnerability was assigned CVE-2026-43284.
 
 # RxRPC Page-Cache Write
 
@@ -428,6 +430,7 @@ index a2130d25aaa9..eab7c5f2517a 100644
 - 2026-05-07: Submitted detailed information about the vulnerability and the exploit to the linux-distros mailing list. The embargo was set to 5 days, with an agreement that if a third party publishes the exploit on the internet during the embargo period, the Dirty Frag exploit would be published publicly.
 - 2026-05-07: Detailed information and the exploit for the esp vulnerability were published publicly by an unrelated third party, breaking the embargo.
 - 2026-05-07: After obtaining agreement from distribution maintainers to fully disclose Dirty Frag, the entire Dirty Frag document was published.
+- 2026-05-08: CVE-2026-43500 was reserved for tracking this vulnerability.
 
 # Chaining
 
